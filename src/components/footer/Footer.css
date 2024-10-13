@@ -1,0 +1,11 @@
+#map1{ 
+    width: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+ }
+#everything1{ 
+    display: flex;
+    justify-content: baseline;
+    background-color: black;
+ }
+ 
