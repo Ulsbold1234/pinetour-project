@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 160px;
+    margin-left: 1000px;
     gap: 100px;
     
   }
@@ -13,7 +13,7 @@
     color: #303030;
     display: flex;
     height: 0px;
-    size: 30px;
+    size: 70px;
   }
    
   h2 {
@@ -24,12 +24,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: large;
+    font-size: 20px;
     gap: 20px;
   }
    
   #annoying {
-    font-size: xx-small;
+    font-size: 25px;
   }
    
   #image-container {
@@ -37,10 +37,10 @@
     flex-direction: row;
     justify-content: center;
     gap: 21px;
-    width: 100%;
+    
   }
   #image-container img{
-    height: 400px;
+    height: 500px;
     
     
   }
